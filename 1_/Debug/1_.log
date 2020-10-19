@@ -1,0 +1,13 @@
+﻿  1.cpp
+  Matrix.cpp
+C:\Users\ADMIN\source\repos\lab2_\1_\Matrix.cpp(10,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ADMIN\source\repos\lab2_\1_\Matrix.cpp(73,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ADMIN\source\repos\lab2_\1_\Matrix.cpp(75,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ADMIN\source\repos\lab2_\1_\Matrix.cpp(83,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ADMIN\source\repos\lab2_\1_\Matrix.cpp(85,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ADMIN\source\repos\lab2_\1_\Matrix.cpp(93,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ADMIN\source\repos\lab2_\1_\Matrix.cpp(95,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ADMIN\source\repos\lab2_\1_\Matrix.cpp(103,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ADMIN\source\repos\lab2_\1_\Matrix.cpp(105,24): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  1_.vcxproj -> C:\Users\ADMIN\source\repos\lab2_\Debug\1_.exe
